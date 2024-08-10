@@ -83,4 +83,3 @@ Filter books by rating:
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
 - Powered by: [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action)
 
-[![Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action/blob/HEAD/assets/logo.svg)](https://github.com/AnandChowdhary/bookshelf-action)
